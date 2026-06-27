@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gemini Plan",
+      "description": "Google Gemini Pro Plan - အီလက်ထရောနစ်ကုန်ပစ္စည်း",
+      "price": "လက်ရှိဈေးနှုန်း",
+      "emoji": "🤖"
+    },
+    {
+      "id": 2,
+      "name": "Express VPN 1 Month",
+      "description": "Express VPN - 1 လ subscription",
+      "price": "လက်ရှိဈေးနှုန်း",
+      "emoji": "🔒"
+    },
+    {
+      "id": 3,
+      "name": "CapCut Pro",
+      "description": "CapCut Professional Edition - ဗီဒီယို အယ်ဒီတ်တင်း software",
+      "price": "လက်ရှိဈေးနှုန်း",
+      "emoji": "🎬"
+    },
+    {
+      "id": 4,
+      "name": "F-Secure VPN 5 Device",
+      "description": "F-Secure VPN - 5 ကိရိယာ အတွက်",
+      "price": "လက်ရှိဈေးနှုန်း",
+      "emoji": "🛡️"
+    }
+  ],
+  "payment": {
+    "method": "KPay",
+    "owner_phone": "09974909779",
+    "confirmation_required": true
+  
+}
